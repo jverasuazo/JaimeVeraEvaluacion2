@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JaimeVeraEvaluacion2</string>
+    <string name="agregar">Agregar mas productos</string>
+    <string name="title_activity_agrega">AgregaActivity</string>
+</resources>
